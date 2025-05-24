@@ -1,5 +1,5 @@
 on : [push]
 jobs:
   steps:
-    -name: 21f1000922@ds.study.iitm.ac.in
-
+    - name: 21f1000922@ds.study.iitm.ac.in
+      run : echo "Hello, World!"
